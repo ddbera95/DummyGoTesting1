@@ -1,4 +1,4 @@
-package DummyGoTesting1
+package main
 
 import "fmt"
 
